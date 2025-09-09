@@ -2,6 +2,8 @@ Aaron Justine V. Sanga 2ECE-A
 # PA2 - Numerical Python
 In this Programming Assignment, we are asked to utilize basic codes and functions in the NumPy library in different situations
 
+```import numpy as np```is used in this PA. Using np, we are able to call on the numpy library and use its codes and functions
+
 **1. Normalization Problem:** Create a random 5 x 5 ndarray and store it to variable X. Normalize X. Save your normalized
 ndarray as X_normalized.npy
 
