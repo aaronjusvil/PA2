@@ -39,7 +39,7 @@ array([[ 0.29722332,  0.44652205,  0.30737031,  1.42847386, -0.21104318],
 ```
 using the display() function. Finally, the normalized array is saved as a .npy file using ```np.save('X_normalized.npy', Normalized_X)```.
 
-**2. Normalization Problem:** Create a 10x10 array of the squares of numbers from 1-100, and find all the elements divisible by 3. Save the result as div_by_3.npy.
+**2. Divisible by 3 Problem:** Create a 10x10 array of the squares of numbers from 1-100, and find all the elements divisible by 3. Save the result as div_by_3.npy.
 
 ```
 arr = np.arange(1, 101, 1)#creates an array that stores numbers from 1-101, not including 101, with an interval of 1 per number
